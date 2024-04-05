@@ -1,0 +1,14 @@
+D:\C#(LYTX)\SamplePrgrams\PracticeProgram\PracticeProgram\obj\Debug\net8.0\PracticeProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#(LYTX)\SamplePrgrams\PracticeProgram\PracticeProgram\obj\Debug\net8.0\PracticeProgram.AssemblyInfoInputs.cache
+D:\C#(LYTX)\SamplePrgrams\PracticeProgram\PracticeProgram\obj\Debug\net8.0\PracticeProgram.AssemblyInfo.cs
+D:\C#(LYTX)\SamplePrgrams\PracticeProgram\PracticeProgram\obj\Debug\net8.0\PracticeProgram.csproj.CoreCompileInputs.cache
+D:\C#(LYTX)\SamplePrgrams\PracticeProgram\PracticeProgram\bin\Debug\net8.0\PracticeProgram.exe
+D:\C#(LYTX)\SamplePrgrams\PracticeProgram\PracticeProgram\bin\Debug\net8.0\PracticeProgram.deps.json
+D:\C#(LYTX)\SamplePrgrams\PracticeProgram\PracticeProgram\bin\Debug\net8.0\PracticeProgram.runtimeconfig.json
+D:\C#(LYTX)\SamplePrgrams\PracticeProgram\PracticeProgram\bin\Debug\net8.0\PracticeProgram.dll
+D:\C#(LYTX)\SamplePrgrams\PracticeProgram\PracticeProgram\bin\Debug\net8.0\PracticeProgram.pdb
+D:\C#(LYTX)\SamplePrgrams\PracticeProgram\PracticeProgram\obj\Debug\net8.0\PracticeProgram.dll
+D:\C#(LYTX)\SamplePrgrams\PracticeProgram\PracticeProgram\obj\Debug\net8.0\refint\PracticeProgram.dll
+D:\C#(LYTX)\SamplePrgrams\PracticeProgram\PracticeProgram\obj\Debug\net8.0\PracticeProgram.pdb
+D:\C#(LYTX)\SamplePrgrams\PracticeProgram\PracticeProgram\obj\Debug\net8.0\PracticeProgram.genruntimeconfig.cache
+D:\C#(LYTX)\SamplePrgrams\PracticeProgram\PracticeProgram\obj\Debug\net8.0\ref\PracticeProgram.dll

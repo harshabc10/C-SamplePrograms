@@ -1,0 +1,14 @@
+D:\C#(LYTX)\SamplePrgrams\DataStructure\DataStructure\bin\Debug\net8.0\DataStructure.exe
+D:\C#(LYTX)\SamplePrgrams\DataStructure\DataStructure\bin\Debug\net8.0\DataStructure.deps.json
+D:\C#(LYTX)\SamplePrgrams\DataStructure\DataStructure\bin\Debug\net8.0\DataStructure.runtimeconfig.json
+D:\C#(LYTX)\SamplePrgrams\DataStructure\DataStructure\bin\Debug\net8.0\DataStructure.dll
+D:\C#(LYTX)\SamplePrgrams\DataStructure\DataStructure\bin\Debug\net8.0\DataStructure.pdb
+D:\C#(LYTX)\SamplePrgrams\DataStructure\DataStructure\obj\Debug\net8.0\DataStructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#(LYTX)\SamplePrgrams\DataStructure\DataStructure\obj\Debug\net8.0\DataStructure.AssemblyInfoInputs.cache
+D:\C#(LYTX)\SamplePrgrams\DataStructure\DataStructure\obj\Debug\net8.0\DataStructure.AssemblyInfo.cs
+D:\C#(LYTX)\SamplePrgrams\DataStructure\DataStructure\obj\Debug\net8.0\DataStructure.csproj.CoreCompileInputs.cache
+D:\C#(LYTX)\SamplePrgrams\DataStructure\DataStructure\obj\Debug\net8.0\DataStructure.dll
+D:\C#(LYTX)\SamplePrgrams\DataStructure\DataStructure\obj\Debug\net8.0\refint\DataStructure.dll
+D:\C#(LYTX)\SamplePrgrams\DataStructure\DataStructure\obj\Debug\net8.0\DataStructure.pdb
+D:\C#(LYTX)\SamplePrgrams\DataStructure\DataStructure\obj\Debug\net8.0\DataStructure.genruntimeconfig.cache
+D:\C#(LYTX)\SamplePrgrams\DataStructure\DataStructure\obj\Debug\net8.0\ref\DataStructure.dll

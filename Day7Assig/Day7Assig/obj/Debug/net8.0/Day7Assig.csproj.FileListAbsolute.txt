@@ -1,0 +1,14 @@
+D:\C#(LYTX)\SamplePrgrams\Day7Assig\Day7Assig\obj\Debug\net8.0\Day7Assig.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#(LYTX)\SamplePrgrams\Day7Assig\Day7Assig\obj\Debug\net8.0\Day7Assig.AssemblyInfoInputs.cache
+D:\C#(LYTX)\SamplePrgrams\Day7Assig\Day7Assig\obj\Debug\net8.0\Day7Assig.AssemblyInfo.cs
+D:\C#(LYTX)\SamplePrgrams\Day7Assig\Day7Assig\obj\Debug\net8.0\Day7Assig.csproj.CoreCompileInputs.cache
+D:\C#(LYTX)\SamplePrgrams\Day7Assig\Day7Assig\bin\Debug\net8.0\Day7Assig.exe
+D:\C#(LYTX)\SamplePrgrams\Day7Assig\Day7Assig\bin\Debug\net8.0\Day7Assig.deps.json
+D:\C#(LYTX)\SamplePrgrams\Day7Assig\Day7Assig\bin\Debug\net8.0\Day7Assig.runtimeconfig.json
+D:\C#(LYTX)\SamplePrgrams\Day7Assig\Day7Assig\bin\Debug\net8.0\Day7Assig.dll
+D:\C#(LYTX)\SamplePrgrams\Day7Assig\Day7Assig\bin\Debug\net8.0\Day7Assig.pdb
+D:\C#(LYTX)\SamplePrgrams\Day7Assig\Day7Assig\obj\Debug\net8.0\Day7Assig.dll
+D:\C#(LYTX)\SamplePrgrams\Day7Assig\Day7Assig\obj\Debug\net8.0\refint\Day7Assig.dll
+D:\C#(LYTX)\SamplePrgrams\Day7Assig\Day7Assig\obj\Debug\net8.0\Day7Assig.pdb
+D:\C#(LYTX)\SamplePrgrams\Day7Assig\Day7Assig\obj\Debug\net8.0\Day7Assig.genruntimeconfig.cache
+D:\C#(LYTX)\SamplePrgrams\Day7Assig\Day7Assig\obj\Debug\net8.0\ref\Day7Assig.dll

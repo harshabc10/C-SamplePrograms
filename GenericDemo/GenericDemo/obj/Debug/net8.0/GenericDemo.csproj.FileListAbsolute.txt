@@ -1,0 +1,14 @@
+D:\C#(LYTX)\SamplePrgrams\GenericDemo\GenericDemo\bin\Debug\net8.0\GenericDemo.exe
+D:\C#(LYTX)\SamplePrgrams\GenericDemo\GenericDemo\bin\Debug\net8.0\GenericDemo.deps.json
+D:\C#(LYTX)\SamplePrgrams\GenericDemo\GenericDemo\bin\Debug\net8.0\GenericDemo.runtimeconfig.json
+D:\C#(LYTX)\SamplePrgrams\GenericDemo\GenericDemo\bin\Debug\net8.0\GenericDemo.dll
+D:\C#(LYTX)\SamplePrgrams\GenericDemo\GenericDemo\bin\Debug\net8.0\GenericDemo.pdb
+D:\C#(LYTX)\SamplePrgrams\GenericDemo\GenericDemo\obj\Debug\net8.0\GenericDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#(LYTX)\SamplePrgrams\GenericDemo\GenericDemo\obj\Debug\net8.0\GenericDemo.AssemblyInfoInputs.cache
+D:\C#(LYTX)\SamplePrgrams\GenericDemo\GenericDemo\obj\Debug\net8.0\GenericDemo.AssemblyInfo.cs
+D:\C#(LYTX)\SamplePrgrams\GenericDemo\GenericDemo\obj\Debug\net8.0\GenericDemo.csproj.CoreCompileInputs.cache
+D:\C#(LYTX)\SamplePrgrams\GenericDemo\GenericDemo\obj\Debug\net8.0\GenericDemo.dll
+D:\C#(LYTX)\SamplePrgrams\GenericDemo\GenericDemo\obj\Debug\net8.0\refint\GenericDemo.dll
+D:\C#(LYTX)\SamplePrgrams\GenericDemo\GenericDemo\obj\Debug\net8.0\GenericDemo.pdb
+D:\C#(LYTX)\SamplePrgrams\GenericDemo\GenericDemo\obj\Debug\net8.0\GenericDemo.genruntimeconfig.cache
+D:\C#(LYTX)\SamplePrgrams\GenericDemo\GenericDemo\obj\Debug\net8.0\ref\GenericDemo.dll
